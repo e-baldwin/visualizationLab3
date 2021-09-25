@@ -1,0 +1,20 @@
+.background{
+    background-color: lightyellow;
+}
+
+.city-count{
+    font-size:medium;
+    text-align: left;
+    fill: green;
+    
+}
+
+.container{
+    font-size:large;
+    text-align: center;
+}
+
+.building{
+    text-align:center;
+    fill: blue;
+}
